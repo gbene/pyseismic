@@ -14,15 +14,21 @@ The available functions are:
 
 + Obspy:
 
-```pip install obspy```
+```
+pip install obspy
+```
 
 + Numpy:
 
-```pip install numpy```
+```
+pip install numpy
+```
 
 + Scipy:
 
-```pip install scipy```
+```
+pip install scipy
+```
 
 ## Todolist
 
