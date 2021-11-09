@@ -32,6 +32,10 @@ pip install scipy
 
 ## Todolist
 
-+ Picking data exporter
-+ Gain traces control
-+ Other stuff
+1. Automatic first break
+2. Trace muting
+3. More precise import options (as for now it relies on the autodetect features of Obspy) 
+4. Simple stratigraphic model reconstruction (from dromochrome elaboration)
+5. Delaytime and GRM applications
+6. SRCS
+7. Focal mechanism reconstruction
